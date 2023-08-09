@@ -1,5 +1,5 @@
 from click.testing import CliRunner
-from src.fibonacci_exercise.__main__ import start
+from scaffolding_python.fibonacci_exercise.__main__ import start
 
 
 class TestFibonacci:

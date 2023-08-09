@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "src"
+name = "scaffolding_python"
 version = "0.1.0"
 description = ""
 authors = ["eduardo.zapata <eduardo.zapata@wayops.eu>"]
@@ -23,6 +23,6 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-my-script = "src.script_for_toml:start"
-coins = "src.combinations_coins.__main__:start"
-fibonacci = "src.fibonacci_exercise.__main__:start"
+my-script = "scaffolding_python.script_for_toml:start"
+coins = "scaffolding_python.combinations_coins.__main__:start"
+fibonacci = "scaffolding_python.fibonacci_exercise.__main__:start"

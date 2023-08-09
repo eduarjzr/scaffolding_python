@@ -1,4 +1,4 @@
-from src.decorators.error_handling import log_errors
+from scaffolding_python.decorators.error_handling import log_errors
 import click
 
 

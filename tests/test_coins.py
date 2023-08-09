@@ -1,5 +1,5 @@
 from click.testing import CliRunner
-from src.combinations_coins.__main__ import start
+from scaffolding_python.combinations_coins.__main__ import start
 
 
 class TestCoins:

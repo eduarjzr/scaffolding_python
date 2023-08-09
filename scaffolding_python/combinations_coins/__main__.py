@@ -1,4 +1,4 @@
-from src.combinations_coins.combination_coins import combinations_coins
+from scaffolding_python.combinations_coins.combination_coins import combinations_coins
 import click
 
 coins = [

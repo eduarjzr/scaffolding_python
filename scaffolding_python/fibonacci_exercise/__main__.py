@@ -1,4 +1,4 @@
-from src.fibonacci_exercise.fibonacci import generate_fibonacci_series
+from scaffolding_python.fibonacci_exercise.fibonacci import generate_fibonacci_series
 import click
 
 
